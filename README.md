@@ -1,2 +1,2 @@
 # AE352
-AE 352 Aerospace Dynamical Systems @UIUC
+AE 352 Aerospace Dynamical Systems @Illinois
